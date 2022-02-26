@@ -36,13 +36,13 @@ Assembly is straight forward, pay attention to markings on silkscreen
 ### Backplane side
 ![assembled_backplane](assembled_backplane.jpg)
 
--J1 socket installs on top side of PCB (side labeled "Backplane: J1 (socket) this side)  
--J2 and J3 headers install on bottom side of PCB (side labeled "Backplane: J2, J3 this side)
+-J1 socket installs on top side of PCB (side labeled "Backplane: J1 (socket) this side")  
+-J2 and J3 headers install on bottom side of PCB (side labeled "Backplane: J2, J3 this side")
 
 ### Card side
 ![assembled_card](assembled_card.jpg)
 
--J1, J2, and J3 headers install on top side of PCB (side labeled "Card: J1 (header), J2, J3 this side)
+-J1, J2, and J3 headers install on top side of PCB (side labeled "Card: J1 (header), J2, J3 this side")
 
 ## Images
 
