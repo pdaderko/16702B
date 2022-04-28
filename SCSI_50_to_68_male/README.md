@@ -1,6 +1,7 @@
 Connects 68-pin SCSI device to SCSI host adapter through 50-pin cable  
 Based on reverse engineered schematic for the HP/Agilent 5182-4551 50-pin to 68-pin SCSI adapter  
-Uses 68-pin male IDC SCSI connector (removed from SCSI ribbon cable) soldered to PCB
+Uses 68-pin male IDC SCSI connector (removed from SCSI ribbon cable) soldered to PCB  
+Due to short length of IDC pins, PCB thickness should be thin (0.031" or so)
 
 Note that the upper 8-bits and its parity bit are tied together and pulled up to TERMPWR with a 4.7K ohm (0805) resistor (others adapters do this differently, such as tying to GND, which I believe causes compatibility issues).
 

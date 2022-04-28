@@ -1,6 +1,7 @@
 Connects 68-pin SCSI device to SCSI host adapter through 50-pin cable  
 Based on reverse engineered schematic for the HP/Agilent 5182-4551 50-pin to 68-pin SCSI adapter  
-Can be used standalone with female connector to adapt 50-pin cable to 68-pin cable, or soldered directly to the bottom of a device with 68-pin connector, such as the AEC-7722.
+Can be used standalone with female connector to adapt 50-pin cable to 68-pin cable, or soldered directly to the bottom of a device with 68-pin connector, such as the AEC-7722.  
+If soldering to the bottom of existing device (e.g. AEC-7722), PCB thickness should be thin (0.031" or so) due to reduced length of exposed pins
 
 Note that the upper 8-bits and its parity bit are tied together and pulled up to TERMPWR with a 4.7K ohm (0805) resistor (others adapters do this differently, such as tying to GND, which I believe causes compatibility issues).
 
