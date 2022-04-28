@@ -12,12 +12,12 @@ Tested with AEC-7722 on Agilent 16702B
 
 ![bottom](bottom.jpg)
 
-IDC connector after removal from cable:
-![connector](connector.jpg)
-
-Shown connected to AEC-7722
-Vertical connector:
+Shown connected to AEC-7722  
+With vertical 50-pin connector:  
 ![connected_vert](connected_vert.jpg)
 
-Right angle connector:
+With right angle 50-pin connector:  
 ![connected_ra](connected_ra.jpg)
+
+IDC connector after removal from cable:  
+![connector](connector.jpg)
